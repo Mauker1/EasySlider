@@ -1,4 +1,4 @@
-package ahmed.easyslider;
+package ahmed.imageslider;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
