@@ -1,4 +1,4 @@
-package ahmed.imagesliderdemo
+package br.com.mauker.imagesliderdemo
 
 import android.support.v7.app.AppCompatActivity
 
@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val sliderItems = ArrayList<SliderItem>()
-        sliderItems.add(SliderItem("", R.drawable.slide2))
+        sliderItems.add(SliderItem("Test", R.drawable.slide2))
         sliderItems.add(SliderItem("", R.drawable.slide3))
         sliderItems.add(SliderItem("", R.drawable.slide4))
         sliderItems.add(SliderItem("", R.drawable.slide6))
