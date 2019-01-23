@@ -1,4 +1,4 @@
-package ahmed.easysliderdemo;
+package ahmed.imagesliderdemo;
 
 import org.junit.Test;
 
